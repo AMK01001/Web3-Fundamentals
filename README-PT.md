@@ -5,7 +5,7 @@ markdown
 Repository with the scripts from **Phase 3** of my Blockchain Data Science study plan.
 Repositório com os scripts da **Fase 3** do meu plano de estudo em Blockchain Data Science.
 
-🇧🇷 [Leia em Português](#-português) | 🇬🇧 [Read in English](#-english)
+🇧🇷 [Leia em Português](https://github.com/AMK01001/Web3-Fundamentals/blob/main/README-PT.md) | 🇬🇧 [Read in English](https://github.com/AMK01001/Web3-Fundamentals#-english)
 
 
 ## 🇧🇷 PORTUGUÊS
